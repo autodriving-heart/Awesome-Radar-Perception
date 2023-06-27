@@ -6,7 +6,7 @@
 
 
 
-## 一、**毫米波雷达算法及应用** | Algorithms and Applications
+## 一、Algorithms and Applications
 
 #### Algorithms
 
@@ -28,7 +28,7 @@ Object Detection in High-Resolution Radar Data
 
 An optimization-based IMU-Lidar-Camera
 
-#### 书籍分享 sharing
+#### books
 
 Modern Radar for Automotive Applications
 
@@ -38,13 +38,13 @@ DESIGN AND IMPLEMENTATION OF AN FMCW  RADAR SIGNAL PROCESSING MODULE FOR  AUTOMO
 
 ARS40X_Technical_Documentation_V_1.8_18.10.2017
 
-## 二、综述 | Survey
+## 二、Survey
 
 [Towards Deep Radar Perception for Autonomous Driving: Datasets, Methods, and Challenges](https://www.mdpi.com/1424-8220/22/11/4208)
 
 [ Multi-Modal 3D Object Detection in Autonomous Driving: a Survey](https://arxiv.org/abs/2106.12735)
 
-## 三、毫米波雷达相关论文 | Paper
+## 三、Paper
 
 ### Sensor Fusion
 
@@ -104,6 +104,6 @@ Deep Learning-based Radar, Camera, and Lidar Fusion for Object Detection
 
 [CFTrack: Center-based Radar and Camera Fusion for 3D Multi-Object Tracking](https://arxiv.org/abs/2107.05150)
 
-## 四、代码仓库 | Code
+## 四、Code
 
 [[code]](https://github.com/PreSenseRadar/OpenRadar)
